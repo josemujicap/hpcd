@@ -80,8 +80,8 @@
 			<div class="botonEn">
 				<p>
 					<ul>
-						<li>Propiedad intelectual</li>
-						<li>Abogados</li>
+						<li>Corporate</li>
+						<li>Intelectual Property</li>
 					</ul>
 				</p>
 			</div>
